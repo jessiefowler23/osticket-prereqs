@@ -26,6 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Remote Desktop 
 - Downlaod Files for OsTciket 
 - Create Admin account for OsTicket 
+- Run a new PHP 
 
 - <h2>Installation Steps</h2>
 
