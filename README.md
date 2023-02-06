@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/GcbMSmP.png](https://i.imgur.com/pGKQzCx.png)height="80%" width="80%" alt="Disk Sanitization Steps"/>
+https://i.imgur.com/PHfXgPo.pngheight="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I had to create a virtual machine on the computer on Azure first before I could begin working with the OsTicket. I then had to obtain an IP address, which required me to begin the OsTicket process on the remote desktop.
