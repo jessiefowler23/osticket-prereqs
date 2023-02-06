@@ -50,7 +50,7 @@ Then i had to launch a web browser on the remote desktop after being able to sig
 <img src=https://i.imgur.com/Pk2nB5P.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The standard help desk account was up next. Then, to connect to the server and communicate with OsTicket, I had to download and install hediSQL. To apply the OsTicket to the default helpdesk account that I am generating, I then had to create a new database for it. on which I was able to install OSTicket and log in.
 </p>
 <br />
 <p>
