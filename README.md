@@ -42,7 +42,7 @@ I had to create a virtual machine on the computer on Azure first before I could 
 <img src=https://i.imgur.com/PHfXgPo.png." height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I had to launch the web browser on the remote desktop after being able to sign into it. Then Install the following downloads into the computer by applying them to the desktop. Which IIS was then opened, and OsTicket was installed.tur.
 </p>
 <br />
 
