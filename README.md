@@ -25,8 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create Virtural Machine in Azure  
 - Remote Desktop 
 - Downlaod Files for OsTciket 
+- Create Admin account for OsTicket 
 
-<h2>Installation Steps</h2>
+- <h2>Installation Steps</h2>
 
 <p>
 <img src=https://i.imgur.com/GcbMSmP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
