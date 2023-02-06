@@ -41,7 +41,7 @@ I had to create a virtual machine on the computer on Azure first before I could 
   <img src=https://i.imgur.com/PHfXgPo.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I had to launch the web browser on the remote desktop after being able to sign into it. Then Install the following downloads into the computer by applying them to the desktop. Which IIS was then opened, and OsTicket was installed.tur.
+Then i had to launch a web browser on the remote desktop after being able to sign into it. I had to download the files and create the accounts that were required for this operation. I then had to launch PHP as an administrator and register a fresh PHP version for OsTicket to be installed. 
 </p>
 <br />
 
