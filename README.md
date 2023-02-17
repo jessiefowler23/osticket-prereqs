@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket -Preconditions and Installation</h1>
+This tutorial outlines the Preconditions and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
  
-- Create Virtural Machine in Azure  
+- Create Resource Group/Virtural Machine in Azure  
 - Remote Desktop 
-- Downlaod Files for OsTciket 
-- Create Admin account for OsTicket 
-- Run a new PHP 
+- Downlaod Lab Files for OsTciket 
+- Windows Explore  
+- 
 
 - <h2>Installation Steps</h2>
 
@@ -103,6 +103,67 @@ I'll then download the Rewrite Module and check to see if it has uploaded using 
 </p>
 <p>
 The next step will be to create a directory for PHP by going to Windows Explore and typing C into the search box. This will take me to Windows C, where I will create a new folder and call it PHP before completing the process.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/5ktL9J6.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/JOcEUx5.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Hyza6FN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Idrvhov.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We're going to add another PHP file to the Windows C PHP file next. Once downloaded, navigate to Downloads in Windows Explorer and right-click the new PHP file to select Extract All. Then, click browser, navigate to Windows C, and select the PHP folder that we created; once that updates and appears, simply click the extract button to download everything into that file.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/v1hjqd3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/KEDqDQ2.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After that, I'm going to download the File VC-Redist, make sure it's downloaded in Windows Explore, and then click it to install it on the computer.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/kgidnr4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Y7voSDK.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I'll then download the MySQL file and install it on the computer using Windows Explore.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
