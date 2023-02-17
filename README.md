@@ -129,56 +129,96 @@ After that, I'm going to download the File VC-Redist, make sure it's downloaded 
 <p>
 <img src=https://i.imgur.com/kgidnr4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src=https://i.imgur.com/Y7voSDK.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/U3URWK9.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I'll then download the MySQL file and install it on the computer using Windows Explore.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The MySQL file will then be downloaded, and I'll use Windows Explore to install it on the PC. then I will set up the MySQL credentials. I'll create a Root username and password after that.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/rAI4ZVd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/oFX67se.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/2VsmQPE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/MGG5XF6.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'll then perform some configuration work in IIS as an administrator. Then I'll click the START button and type IIS, but first I'll right-click it and open it as an administrator. I'll notice a handful of the early installations we made when it opens, and then I'll click the PHP icon. I'm going to hit Register New PHP Version now that I'm in PHP. I'm going to open Windows Explore, click the three small dots on the right, navigate to Windows C, choose PHP.cgi, and then click OK.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/uog7JKd.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/9BIcYK8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/OIXiuo5.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/p9BgWK4.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/dr6FD4R.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/TIyZatQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/q0lWual.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/GITmfP3.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I'll download osTikcet from the installation files, then extract and copy the "upload" folder into C;inetpub/wwwroot. Next, I open Windows Explorer, navigate to Downloads, and then click the osTicket file that was downloaded.   Access another window explore and navigate to Window C, then the Intepub folder, and finally the www-root folder. Then I'll drag the Upload folder from the osTicket file to the www-root folder. Now I'm going to rename the Upload folder to OsTicket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/zV9yyOf.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/qrUlMXZ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/zV9yyOf.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, I'm going to open IIS again, click Vm-osTicket, then Sites, then OsTicket folder, then browser, and it should open us up on a website browser with the OsTicket showing; if it doesn't, you'll have to start over because one step was missed.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/qrUlMXZ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/0wWCo6M.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/LTQZM6z.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/QYIS15t.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/rPGvZeu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now I'm going to fix all the extensions that aren't working, so first I'm going to go back into IIS and click On sites, then osTicket, and then double click PHP manager. Then I'll click Enable, Disable, or Add Extension. Following that, I'll enable the following extensions: php imap.dll, php intl.dll, and php opache.dll. After that, you can return to the OsTicket browser and refresh it, and all of the Xs should be gone.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/2ayQ6rL.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/FtkHITq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/BDgnuem.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/80dCAzp.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/h8OccZt.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/KZWTzaB.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/KZWTzaB.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We'll now switch to Window C, return to the wwwroot folder, click osTicket, then scroll down and change ost-samplecomfig.php to OsTicketconfig.php. Finally, right-click the renamed folder and select Properties from the menu that appears. After that, I go to security, select advance, choose Disable Inheritances, and then click Remove All Inheritances. Then you will add permissions, choose Principle, type in Everyone, and then choose Basic Permissions, giving Everyone Complete Control.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/KWDCGvq.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/vrljKlG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/DfoDVZc.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/Z82PTlC.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/pmWeMBh.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/fSrE0Rs.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/qVKmkFs.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+I'll now return to the OSTicket browser, click Continue, create a username, and then provide the necessary data. While downloading HeidiSQL, make sure it downloads to Windows Explore. Then, click the HeidiSQL icon to launch the setup process and finish the process. Once installed, HeidiSQL will appear, and when you click Create, a new Data Base for the OsTicket will be created. We will type in the Root Password we created before. To open Heidi, right-click Unnamed, select Create New, select Database, give it the name OsTicket, and then click Okay. Return to the OsTicket browser and enter the data base information you created at the bottom of the page and click continue.
+</p>
+<br />
+
+
+<p>
+<img src=https://i.imgur.com/jpB8kyz.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/lwagduP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src=https://i.imgur.com/lUe1Bdw.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, return to the wwwroot file, navigate to the OsTicket folder, and then click on the include folder. From there, select everyone in the Advance section, remove Full Control from the Basic permission, and only apply Reading and Execute  click "Apply." then return to the website's page in your browser and enter localhost/osTicket/scp/login.php. The username and password you created for OsTicket should then allow you to log in.
 </p>
 <br />
