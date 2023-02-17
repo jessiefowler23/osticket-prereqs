@@ -31,32 +31,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - <h2>Installation Steps</h2>
 
 <p>
-<img src=https://i.imgur.com/GcbMSmP.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/DZJZ37P.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I had to create a virtual machine on the computer on Azure first before I could begin working with the OsTicket. I then had to obtain an IP address, which required me to begin the OsTicket process on the remote desktop.
-</p>
-<br />
-
-<p>
-  <img src=https://i.imgur.com/N6KIUBe.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Then i had to launch a web browser on the remote desktop after being able to sign into it. I had to download the files and create the accounts that were required for this operation. I then had to launch PHP as an administrator and register a fresh PHP version for process of OsTicket to be installed  
+I will first go to PortalAzure.com to connect into Azure, then I will create a Recourse group and give it the name RG-osTicket.
 </p>
 <br />
 
 <p>
-<img src=https://i.imgur.com/Pk2nB5P.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src=https://i.imgur.com/jaBq0D9.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The standard help desk account was up next. Then, to connect to the server and communicate with OsTicket, I had to download and install hediSQL. To apply the OsTicket to the default helpdesk account that I am generating, I then had to create a new database for it. On which I was able to install OSTicket and log in.
+I will proceed to construct a virtual machine after creating the resource group. Then I'll add the virtual machine VM-Osticket and the resource Group we made with the name RG-oTicket. I'll then pick the US-3 Region where I am located. Then select a Windows 10 image for the virtual computer. Create a Username and Password next, after which the networking will be conducted, click the Create button.
+</p>
+<br />
+
+<p>
+<img src=https://i.imgur.com/A8tAyVT.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that I've clicked the virtual machine, I can access its settings, copy the public IP address, and then launch remote desktop on my computer and input the public IP address.
 </p>
 <br />
 <p>
-<img src=https://i.imgur.com/AZRoq3k.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/q2jXQij.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After completing all the requirements, I was able to access OsTicket using the default account that was created.
+Once logged in to the remote desktop, I'll enable IIS (Internet Information Services) in Windows 10 with CGI, which is a web server that enables this computer to host websites because osTicket runs off websites. I'll now select RUN from the menu by right-clicking the Windows symbol in the lower-left corner, type in control, and select Programs.
 </p>
 <br />
